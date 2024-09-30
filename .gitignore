@@ -1,0 +1,5 @@
+app.log
+secrets.json
+
+*.log
+#jitni bhi log files hongi vah ignore ho jayengi
